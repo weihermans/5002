@@ -36,8 +36,6 @@
 ### 1.1 Install Dependencies
 
 
-### 1.2 Starting the Web Application
-
 
 
 ---
